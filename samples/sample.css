@@ -1,0 +1,14 @@
+.section {
+	background : #DDEEFF;
+	width : 50%;
+	border:1px dashed #0F0F0F;
+}
+th {
+	background : #DD9999;
+	color : white;
+	text-align : left;
+}
+td {
+	font-family : verdana;
+	font-size : 8pt;
+}

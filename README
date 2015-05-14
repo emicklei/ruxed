@@ -1,0 +1,12 @@
+Ruxed - Ruby XML editor is not just another XML editor.
+This editor serves several needs: 
+- editing XML
+- programming an XML transformation in Ruby
+- on-the-fly viewing of the result in IE
+The transformation part was inspired by Martin Fowler's article on Rake
+
+To run the examples after uninstalling the ruxed gem:
+1: >cd lib
+2: >ruby ../bin/ruxed ../samples/xdoc.xml  ../samples/xdoc.rb
+
+ernest.micklei@philemonworks.com, 2006

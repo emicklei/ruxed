@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<root>
+        <child attribute="value">
+                plain text
+        </child>
+</root>
